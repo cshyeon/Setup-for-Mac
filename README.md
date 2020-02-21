@@ -26,6 +26,7 @@ https://nachwon.github.io/how-to-install-zsh-plugins/
   - 날짜 및 시간
     - 시계
       - 시간에 초를 표시 체크
+      - 날짜옵션: 날짜보기 체크
 - finder 설정
   - 환경설정
     새로운 Finder 윈도우에서 보기: 사용자 home 디렉토리로 설정
@@ -41,6 +42,7 @@ https://nachwon.github.io/how-to-install-zsh-plugins/
 - 한/영 전환키 설정 (karabiner)
 - 메모 내용 import/export
 - 크롬 설치
+  - 크롬 개인정보 설정
 - 인터넷 브라우저 즐겨찾기 import/export
 - 한글입력시 백틱(`) 입력 문제 설정
 - 마우스 스크롤 휠 위/아래 방향 반전 설정 (logitech options, 맥 어플사용)
