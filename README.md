@@ -1,7 +1,10 @@
 # Setup-for-Mac
 맥북 초기 사용시 셋팅이 필요한 내용을 모아 보았습니다.
 
-참고 사이트: https://subicura.com/2017/11/22/mac-os-development-environment-setup.html
+참고 사이트: https://subicura.com/2017/11/22/mac-os-development-environment-setup.html,
+https://beomi.github.io/2017/07/07/Beautify-ZSH/
+https://beomi.github.io/2018/01/30/Hide-username-on-MAC-terminal/
+https://nachwon.github.io/how-to-install-zsh-plugins/
 
 - 기본 시스템 환경설정
   - dock:
@@ -45,6 +48,20 @@
   - xcode-select --install
 - iterm2 / zsh / oh-my-zsh 설정
 - brew 설치
+- git설치: brew install git git-lfs
+  git config --global core.precomposeunicode true
+  git config --global core.quotepath false
+  
+  git config --local --unset credential.helper
+  git config --global --unset credential.helper
+  git config --system --unset credential.helper
+- iterm2 설치
+  brew cask install iterm2
+  - zsh 설치
+    brew install zsh
+  - ohmyzsh 설치
+  - zsh-syntax-highlighting 설치
+  - zsh-autosuggestions 설치
 - 앱스토어에서 xcode 설치
 
 - mds_store CPU 과점유 방지
