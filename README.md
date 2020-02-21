@@ -1,6 +1,8 @@
 # Setup-for-Mac
 맥북 초기 사용시 셋팅이 필요한 내용을 모아 보았습니다.
 
+참고 사이트: https://subicura.com/2017/11/22/mac-os-development-environment-setup.html
+
 - 기본 시스템 환경설정
   - dock:
     - 윈도우 최소화 효과: 크기효과
@@ -16,6 +18,8 @@
     - 외장 키보드에서 F1,F2 등의 키를 표준 기능 키로 사용 체크
     - 텍스트
       - 자동수정 및 스마트 인용 및 대시사용 체크해제
+  - 마우스
+    스크롤 방향: 자연스럽게 체크 해제
   - 날짜 및 시간
     - 시계
       - 시간에 초를 표시 체크
@@ -36,9 +40,12 @@
 - 크롬 설치
 - 인터넷 브라우저 즐겨찾기 import/export
 - 한글입력시 백틱(`) 입력 문제 설정
-- 마우스 스크롤 휠 위/아래 방향 반전 설정 (logitech 유틸리티, 맥 어플사용)
+- 마우스 스크롤 휠 위/아래 방향 반전 설정 (logitech options, 맥 어플사용)
+- terminal에서 xcode-cli 설치
+  - xcode-select --install
 - iterm2 / zsh / oh-my-zsh 설정
 - brew 설치
+- 앱스토어에서 xcode 설치
 
 - mds_store CPU 과점유 방지
   - 원인: spotlight에서 빠른 검색을 보장하기위해 파일들에 대한 indexing 실행하는걸로 추측
