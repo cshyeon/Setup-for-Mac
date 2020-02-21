@@ -1,4 +1,4 @@
-# Setup-for-Mac
+# Setup-Macbook-for-developer
 맥북 초기 사용시 셋팅이 필요한 내용을 모아 보았습니다.
 
 참고 사이트: https://subicura.com/2017/11/22/mac-os-development-environment-setup.html,
