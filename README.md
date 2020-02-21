@@ -2,9 +2,9 @@
 맥북 초기 사용시 셋팅이 필요한 내용을 모아 보았습니다.
 
 참고 사이트: https://subicura.com/2017/11/22/mac-os-development-environment-setup.html,
-https://beomi.github.io/2017/07/07/Beautify-ZSH/
-https://beomi.github.io/2018/01/30/Hide-username-on-MAC-terminal/
-https://nachwon.github.io/how-to-install-zsh-plugins/
+https://beomi.github.io/2017/07/07/Beautify-ZSH/  
+https://beomi.github.io/2018/01/30/Hide-username-on-MAC-terminal/  
+https://nachwon.github.io/how-to-install-zsh-plugins/  
 
 - 기본 시스템 환경설정
   - dock:
@@ -67,4 +67,4 @@ https://nachwon.github.io/how-to-install-zsh-plugins/
 - mds_store CPU 과점유 방지
   - 원인: spotlight에서 빠른 검색을 보장하기위해 파일들에 대한 indexing 실행하는걸로 추측
   - 해결 방안: 많은 파일이 있지만 spotlight 검색이 필요하지 않은 폴더를 따로 설정
-    - 시스템 환경설정 -> spotlight -> 개인정보보호탭 -> index하지 않을 폴더 추가
+    - 시스템 환경설정 -> spotlight -> 개인정보보호탭 -> index하지 않을 폴더 추가 (개발 dev 폴더 추가)
