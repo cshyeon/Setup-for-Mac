@@ -24,7 +24,9 @@ https://nachwon.github.io/how-to-install-zsh-plugins/
     - 보조키
       - ctrl, command 키 서로 전환
   - 마우스
-    스크롤 방향: 자연스럽게 체크 해제
+    스크롤 방향: 자연스럽게 체크
+  - 트랙패드 
+     스크롤 방향: 자연스럽게 체크
   - 날짜 및 시간
     - 시계
       - 시간에 초를 표시 체크
