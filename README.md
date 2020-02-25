@@ -74,3 +74,8 @@ https://nachwon.github.io/how-to-install-zsh-plugins/
   - 원인: spotlight에서 빠른 검색을 보장하기위해 파일들에 대한 indexing 실행하는걸로 추측
   - 해결 방안: 많은 파일이 있지만 spotlight 검색이 필요하지 않은 폴더를 따로 설정
     - 시스템 환경설정 -> spotlight -> 개인정보보호탭 -> index하지 않을 폴더 추가 (개발 dev 폴더 추가)
+    
+- vscode 설치
+  - setting sync로 extension 동기화
+- nvm 으로 node 설치
+  참고: http://junsikshim.github.io/2016/01/29/Mac%EC%97%90%EC%84%9C-Node.js-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.html
