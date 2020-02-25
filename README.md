@@ -21,6 +21,8 @@ https://nachwon.github.io/how-to-install-zsh-plugins/
     - 외장 키보드에서 F1,F2 등의 키를 표준 기능 키로 사용 체크
     - 텍스트
       - 자동수정 및 스마트 인용 및 대시사용 체크해제
+    - 보조키
+      - ctrl, command 키 서로 전환
   - 마우스
     스크롤 방향: 자연스럽게 체크 해제
   - 날짜 및 시간
