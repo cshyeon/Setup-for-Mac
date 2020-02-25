@@ -54,13 +54,13 @@ https://nachwon.github.io/how-to-install-zsh-plugins/
   - xcode-select --install
 - iterm2 / zsh / oh-my-zsh 설정
 - brew 설치
-- git설치: brew install git git-lfs
-  git config --global core.precomposeunicode true
-  git config --global core.quotepath false
-  
-  git config --local --unset credential.helper
-  git config --global --unset credential.helper
-  git config --system --unset credential.helper
+- git설치: brew install git git-lfs  
+  git config --global core.precomposeunicode true  
+  git config --global core.quotepath false  
+    
+  git config --local --unset credential.helper  
+  git config --global --unset credential.helper  
+  git config --system --unset credential.helper  
 - iterm2 설치
   brew cask install iterm2
   - zsh 설치
