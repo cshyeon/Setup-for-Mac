@@ -88,3 +88,6 @@
   - brew cask install postman
 - ngrok 설치
   - brew cask install ngrok
+
+- 기타 프로그램
+  - teamviewer
