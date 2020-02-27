@@ -88,6 +88,11 @@
   - brew cask install postman
 - ngrok 설치
   - brew cask install ngrok
+  
+- AWS-cli 설치
+  - https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/install-macos.html#awscli-install-osx-path
+  - ~/.zshrc 설정 추가
+    - export PATH=~/Library/Python/3.7/bin:$PATH
 
 - 기타 프로그램
   - teamviewer
