@@ -59,6 +59,9 @@
   git config --local --unset credential.helper  
   git config --global --unset credential.helper  
   git config --system --unset credential.helper  
+  
+  git config --global alias.br branch  
+  git config --global alias.co checkout  
 - iterm2 설치
   brew cask install iterm2
   - zsh 설치
