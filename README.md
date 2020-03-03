@@ -98,4 +98,5 @@
     - export PATH=~/Library/Python/3.7/bin:$PATH
 
 - 기타 프로그램
-  - teamviewer
+  - teamviewer (원격 컴퓨터 공유 어플)
+  - magnet (Apple store) (화면 분할 단축키 지원 어플) 
