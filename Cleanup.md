@@ -1,0 +1,12 @@
+- logout icloud account
+- logout & remove itunes
+- logout imessage
+- remove 인터넷 계정
+- remove chrome log
+- remove aws config
+- remove keypassxc data
+- logout xcode
+- logout and remove memo content
+- remove credential mac, git
+- remove vscode setting sync git access_token
+- logout notion, slack
