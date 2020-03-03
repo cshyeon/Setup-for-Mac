@@ -3,15 +3,15 @@
 - logout imessage
 - remove 인터넷 계정
 - cleanup photo app
-- logout xcode
+- logout xcode, androidstudio
 - logout and remove memo content
 - remove vscode setting sync git access_token
 - logout notion, slack
 - remove credential mac, git
 - cleanup keychain
-- remove chrome log
 - remove aws config
 - remove keypassxc data
 - remove local files
+- remove chrome log
 - remove wifi settting
 - remove bluetooth connection
