@@ -21,7 +21,7 @@
     - 텍스트
       - 자동수정 및 스마트 인용 및 대시사용 체크해제
     - 보조키
-      - ctrl, command 키 서로 전환
+      - ctrl, command 키 서로 전환 (for windows user)
   - 마우스
     스크롤 방향: 자연스럽게 체크
   - 트랙패드 
@@ -51,7 +51,6 @@
 - 마우스 스크롤 휠 위/아래 방향 반전 설정 (logitech options, 맥 어플사용)
 - terminal에서 xcode-cli 설치
   - xcode-select --install
-- iterm2 / zsh / oh-my-zsh 설정
 - brew 설치
 - git설치: brew install git git-lfs  
   git config --global core.precomposeunicode true  
@@ -63,6 +62,7 @@
   
   git config --global alias.br branch  
   git config --global alias.co checkout  
+- iterm2 / zsh / oh-my-zsh 설정
 - iterm2 설치
   brew cask install iterm2
   - zsh 설치
