@@ -74,6 +74,7 @@
   - ohmyzsh 설치
   - zsh-syntax-highlighting 설치
     - (추가) 터미널에서 사용자 컴퓨터 이름 가리기: https://beomi.github.io/2018/01/30/Hide-username-on-MAC-terminal/
+    - https://the-illusionist.me/49
   - zsh-autosuggestions 설치
   - plugin 참고: https://nachwon.github.io/how-to-install-zsh-plugins/
 - 앱스토어에서 xcode 설치
