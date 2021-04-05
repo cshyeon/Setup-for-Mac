@@ -94,6 +94,31 @@
 - mysql 설치
   - https://whitepaek.tistory.com/16  
   - https://devyurim.github.io/data%20base/mysql/2018/08/13/mysql-1.html
+  - 5.7 버전: brew install mysql@5.7
+  - Default character set, collation 설정:
+    - ```bash
+       cd /etc
+       touch my.cnf
+       sudo vim my.cnf
+      ```
+      ```
+      #copy below text
+      [client]
+      default-character-set = utf8mb4
+
+      [mysql]
+      default-character-set = utf8mb4
+
+      [mysqld]
+      character-set-server=utf8mb4
+      collation-server=utf8mb4_general_ci
+
+      # Default Homebrew MySQL server config
+      # [mysqld]
+      # Only allow connections from localhost
+      bind-address = 127.0.0.1
+      ```
+
 - postman 설치
   - brew cask install postman
 - ngrok 설치
